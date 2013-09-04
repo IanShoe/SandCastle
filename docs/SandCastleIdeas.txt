@@ -1,0 +1,54 @@
+Sand Castle
+
+Premise: You are the leader of a group of ants with a castle built along the beach (Maybe some story crap about how you love water or can't sleep without the sound of water. Make it cartoony). Everyday, your castle has to deal with the dangers of the oncoming tide. You assign workers to gather, build, and invent new means to protect your castle. It's your job to delegate the forces to achieve victory!
+
+GamePlay:
+1. Player will have 1minute to assign initial tasks and get the ball rolling. The castle will have limited defenses already set in place.
+2. Maybe start off with 3-5 ants (maybe all workers at the beginning) which can engage in fortifying walls, build towers, build moats, search for materials, or research experiments.
+3. Castle will have a middle section with 100% hp and if this goes down you lose the game. Ants may retreat to the middle section as a last stand maneuver.
+4. Castle will have the main outer walls which protects everything else inside (possibly other buildings? blacksmith, wizard tower, research lab, training grounds)
+5. Workers can dig moats and outer reinforcements which act as the first line of defense? Workers can repair existing structures maybe upgrade?
+6. Maybe come up with something user can do in down time moments (swipe at a wall to repair?)
+7. Gatherers can get resources (maybe bring up a map and assign where you can get resources? Forest, Beach, Trash Can, Mine)
+8. Certain resources might be one time uses by the user? Kinda like a power up. (candy gives boost of energy to all workers for 20sec)
+9. After certain levels, enemeies such as crabs can come attack. Requires fighter ants to fend off.
+10. After certain levels, seagulls can take a crap on your castle and cover it in sticky ooze slowing work progress down. (figure out someway to mitigate)
+11. Units can be susceptible to death via crabs killing or drowning in water? (Wizard can ressurect?) (Maybe mana points?)
+
+Game Phases:
+
+Main Phase (Day): Scrollable view of water, to castle, to some kind of unit management and map view. Interact with crabs and waves or interact with walls castle itself, or interact with unit management?
+Downtime Phase (Night): Here you can look at what resources you have, upgrades available, unit stats, kingdom stats, assign tasks, fix up any prior attacks on castle, maybe choose missions? Discover recipes? Buy items, in app purchases? look at gallery/monster/unit statistics. Maybe look at a kingdom map? If we have some kind of story mode, progress the story here?
+
+
+Units:
+1. Worker - builds, repairs, gathers 
+2. Archers - fires at crabs. If on a tower, damage increased
+3. Fighters (Pikemen?) -  fights hand to hand, more volatile but buys a little more time? (possibly a hero unit?)
+4. Smartypants? - Wizards and/or researchers. Cast spells that allow user to do some stuff? Stop time 10sec where user can do swipe gestures (repair/kill crabs?). Fireball blast the enemies away. Weaken water, slows or lessens damage.
+5. Researchers can spend larger amounts of time to discover new technologies to improve the arsenal of your kingdom
+6. Blacksmith (Crafter?) - Consumes other types of resources to build upgrades for units and buildings
+
+Leveling and Perks:
+1. All units can gain levels which increase their skill at their job (Maybe a max of lvl 3-5)
+2. All units can equip some items/weapons to increase productivity. Probably some found, but most built by the crafter ant.
+3. User can gain levels (talent points) to have global increases or abilities? 5% worker speed, 1time per use reinforcements?
+4. Maybe a hero unit with some minor special abilities? (3 types of heroes?) worker hero, fighter hero, research hero? (maybe choose your hero as you would a class?)
+5. Certain units might upgrade to ranks within a class once obtaining max experience level? So worker class can start Peon, Worker, Architect? Fighter, Gladiator, Commander? Archer, Ranger, Marksmen? Acolyte, Wizard, Archmage?
+
+Castle:
+
+1. Multiple sections to the walls and each part has a percentage? Once it reaches 0, it's destroyed until a new one is built, otherwise you may repair at a fraction of the cost. Color Coded HP levels.
+2. Walls can be repaired mid gameplay by workers.
+3. Building outside fortifications maybe during 
+
+
+Future Web App - rankings, graphs, skins/props, maybe dictate abilities and points. Whatever bonus stuff.
+Possibly come up with a world map with other people (facebook friends) and you can trade or compare? Bonus PvP arena?
+
+
+
+
+Add any and all ideas no matter how stupid or crazy. Put your initial next to your Ideas too "D I C K"
+------------------------------------------------------------------------------------------------------------
+I: Maybe more user interaction where they are tapping or swiping waves and creatures and less of a managerial game? But how to make this attractive? Does this kill alot of the other aspects of units, experience, etc.
