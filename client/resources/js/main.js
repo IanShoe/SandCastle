@@ -54,8 +54,8 @@ var MainGameScene = Class.create(Scene, {
 
 
 
-		// this.bgm = game.assets['/resources/audio/bgm.mp3'];
-		// this.bgm.play();
+		this.bgm = game.assets['/resources/audio/bgm.mp3'];
+		this.bgm.play();
 		// if (this.bgm.currentTime >= this.bgm.duration ){
 		// 	this.bgm.play();
 		// }
@@ -81,7 +81,7 @@ var MainGameScene = Class.create(Scene, {
 				var game = Game.instance;
 				game.assets['/resources/audio/hit.mp3'].play();
 				this.iceGroup.removeChild(ice);    
-				// this.bgm.stop();
+				this.bgm.stop();
 				game.replaceScene(new GameOverScene(this.score));        
 				break;
 			}
